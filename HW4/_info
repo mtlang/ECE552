@@ -1,0 +1,92 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/ProgramData/App-V/2191B702-5279-4048-91BA-BCF8F2A20B49/3C5B5D32-C303-48A2-8738-F357EDE80167/Root/examples
+vaddsub_4bit
+Z0 !s110 1519080371
+!i10b 1
+!s100 aNP8H4;EOfU^=MDk@C1Z;0
+I<aCWNYZ8AVjRX>ECf28o?2
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+Z2 dI:/ECE552
+Z3 w1518564811
+Z4 8I:/ECE552/addsub.v
+Z5 FI:/ECE552/addsub.v
+L0 1
+Z6 OE;L;10.3c;59
+r1
+!s85 0
+31
+Z7 !s108 1519080371.006000
+Z8 !s107 I:/ECE552/addsub.v|
+Z9 !s90 -reportprogress|300|-work|HW4|-vopt|-stats=none|I:/ECE552/addsub.v|
+!i113 0
+Z10 o-work HW4 -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vALU
+!s110 1519080372
+!i10b 1
+!s100 6B[hHM0ne1]JfY9FnXL>Q3
+Iih^bnVo085>A7gZY0boYP1
+R1
+R2
+w1518562809
+8I:/ECE552/ALU.v
+FI:/ECE552/ALU.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1519080371.856000
+!s107 I:/ECE552/ALU.v|
+!s90 -reportprogress|300|-work|HW4|-vopt|-stats=none|I:/ECE552/ALU.v|
+!i113 0
+R10
+n@a@l@u
+vfull_adder_1bit
+R0
+!i10b 1
+!s100 ezGWA[OzEzQkW2WE_JgTi0
+IE2LB`[Y7TKJB59BY]=`;=1
+R1
+R2
+R3
+R4
+R5
+L0 20
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+vPSA_16bit
+!s110 1519081235
+!i10b 1
+!s100 ?Lg@>W7QjZWH@oL>32II`1
+IA[e>=I2JFS`S2h`NnMU=d3
+R1
+R2
+w1519081233
+8I:/ECE552/PSA_16bit.v
+FI:/ECE552/PSA_16bit.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1519081235.234000
+!s107 I:/ECE552/PSA_16bit.v|
+!s90 -reportprogress|300|-work|HW4|-vopt|-stats=none|I:/ECE552/PSA_16bit.v|
+!i113 0
+R10
+n@p@s@a_16bit

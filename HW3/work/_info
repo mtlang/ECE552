@@ -1,0 +1,123 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/ProgramData/App-V/2191B702-5279-4048-91BA-BCF8F2A20B49/3C5B5D32-C303-48A2-8738-F357EDE80167/Root/examples
+T_opt
+!s110 1518558111
+VCTj2C;Kkz@6BeP06cT?T01
+04 14 4 work addsub_4bit_tb fast 0
+=1-509a4c408959-5a835b9e-1cb-2af4
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OE;O;10.3c;59
+R0
+vaddsub_4bit
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+r1
+!s85 0
+31
+!i10b 1
+!s100 aNP8H4;EOfU^=MDk@C1Z;0
+I0X;ehO8hRUB85V7YPXL[^0
+Z2 dI:/ECE552/HW3
+Z3 w1518564811
+Z4 8I:/ECE552/HW3/addsub.v
+Z5 FI:/ECE552/HW3/addsub.v
+L0 1
+Z6 OE;L;10.3c;59
+Z7 !s108 1518564977.447000
+Z8 !s107 I:/ECE552/HW3/addsub.v|
+Z9 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/HW3/addsub.v|
+!i113 0
+Z10 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vaddsub_4bit_tb
+Z11 DXx6 sv_std 3 std 0 22 <EOTafDcUY:cQeO^ICn]m3
+!s110 1518564978
+!i10b 1
+!s100 D5442X`>P8]482gGc;nFC1
+I94U=g:=P3]ToEO^MBQ1i23
+R1
+!s105 addsub_tb_sv_unit
+S1
+R2
+w1518564870
+8I:\ECE552\HW3\addsub_tb.sv
+FI:\ECE552\HW3\addsub_tb.sv
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1518564977.977000
+!s107 I:\ECE552\HW3\addsub_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|I:\ECE552\HW3\addsub_tb.sv|
+!i113 0
+Z12 o-work work -sv -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vALU
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 6B[hHM0ne1]JfY9FnXL>Q3
+I`;6bQXc27DA_4W_6S>14j1
+R2
+w1518562809
+8I:/ECE552/HW3/ALU.v
+FI:/ECE552/HW3/ALU.v
+L0 1
+R6
+!s108 1518564978.447000
+!s107 I:/ECE552/HW3/ALU.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE552/HW3/ALU.v|
+!i113 0
+R10
+n@a@l@u
+vALU_tb
+R11
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 1acKEW5H;=[6<bXoRzT6n0
+IU]=IV78M3BU]_3^QDncXA1
+!s105 ALU_tb_sv_unit
+S1
+R2
+w1518565706
+8I:/ECE552/HW3/ALU_tb.sv
+FI:/ECE552/HW3/ALU_tb.sv
+L0 1
+R6
+!s108 1518565708.624000
+!s107 I:/ECE552/HW3/ALU_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|I:/ECE552/HW3/ALU_tb.sv|
+!i113 0
+R12
+n@a@l@u_tb
+vfull_adder_1bit
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 ezGWA[OzEzQkW2WE_JgTi0
+IY0i0Ii63no`dj]J1]A6453
+R2
+R3
+R4
+R5
+L0 20
+R6
+R7
+R8
+R9
+!i113 0
+R10

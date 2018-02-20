@@ -1,0 +1,23 @@
+I:/ECE552/HW3/ALU.v {1 {vlog -work work -vopt -stats=none I:/ECE552/HW3/ALU.v
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} I:/ECE552/HW3/addsub_tb.sv {1 {vlog -work work -vopt -sv -stats=none {I:\ECE552\HW3\addsub_tb.sv}
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module addsub_4bit_tb
+
+Top level modules:
+	addsub_4bit_tb
+
+} {} {}} I:/ECE552/HW3/addsub.v {1 {vlog -work work -vopt -stats=none I:/ECE552/HW3/addsub.v
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module addsub_4bit
+-- Compiling module full_adder_1bit
+
+Top level modules:
+	addsub_4bit
+
+} {} {}}

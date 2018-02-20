@@ -1,0 +1,162 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/Users/mtlang/Desktop/ECE552
+vaddsub_4bit
+Z0 !s110 1519092068
+!i10b 1
+!s100 aNP8H4;EOfU^=MDk@C1Z;0
+IlgJb0RF_cTNJZ<GnmHdWX2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dE:/Users/mtlang/Desktop/ECE552/HW4
+Z3 w1519091707
+Z4 8E:/Users/mtlang/Desktop/ECE552/addsub.v
+Z5 FE:/Users/mtlang/Desktop/ECE552/addsub.v
+L0 1
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1519092068.000000
+Z8 !s107 E:/Users/mtlang/Desktop/ECE552/addsub.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|E:/Users/mtlang/Desktop/ECE552/addsub.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vALU
+R0
+!i10b 1
+!s100 6B[hHM0ne1]JfY9FnXL>Q3
+I=;E[a[RYaQzDcXaYSZCl@1
+R1
+R2
+R3
+8E:/Users/mtlang/Desktop/ECE552/ALU.v
+FE:/Users/mtlang/Desktop/ECE552/ALU.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 E:/Users/mtlang/Desktop/ECE552/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Users/mtlang/Desktop/ECE552/ALU.v|
+!i113 1
+R10
+R11
+n@a@l@u
+vfull_adder_1bit
+R0
+!i10b 1
+!s100 ezGWA[OzEzQkW2WE_JgTi0
+I<hTlI2;]?8k@h:gT9>UU32
+R1
+R2
+R3
+R4
+R5
+L0 20
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vLShifter
+Z12 !s110 1519096391
+!i10b 1
+!s100 12iiQe49g_83<z6YT<h`k2
+IK8fWPmE?i@TQI=@4[W0g;3
+R1
+R2
+Z13 w1519096390
+Z14 8E:/Users/mtlang/Desktop/ECE552/HW4/Shifter.v
+Z15 FE:/Users/mtlang/Desktop/ECE552/HW4/Shifter.v
+L0 16
+R6
+r1
+!s85 0
+31
+Z16 !s108 1519096391.000000
+Z17 !s107 E:/Users/mtlang/Desktop/ECE552/HW4/Shifter.v|
+Z18 !s90 -reportprogress|300|-work|work|-stats=none|E:/Users/mtlang/Desktop/ECE552/HW4/Shifter.v|
+!i113 1
+R10
+R11
+n@l@shifter
+vPSA_16bit
+R0
+!i10b 1
+!s100 ?Lg@>W7QjZWH@oL>32II`1
+I]iPcLC0gMh=9WdG?4]gLd1
+R1
+R2
+R3
+8E:/Users/mtlang/Desktop/ECE552/PSA_16bit.v
+FE:/Users/mtlang/Desktop/ECE552/PSA_16bit.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 E:/Users/mtlang/Desktop/ECE552/PSA_16bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Users/mtlang/Desktop/ECE552/PSA_16bit.v|
+!i113 1
+R10
+R11
+n@p@s@a_16bit
+vRShifter
+!s110 1519096392
+!i10b 1
+!s100 ERzeb;:o@Baz9?8NiDjGY2
+I>@WWbShZd=bACc84OYTl52
+R1
+R2
+R13
+R14
+R15
+L0 39
+R6
+r1
+!s85 0
+31
+R16
+R17
+R18
+!i113 1
+R10
+R11
+n@r@shifter
+vShifter
+R12
+!i10b 1
+!s100 06[>Md7m_V8A^404[:1RQ1
+Ie9PCV;X_0Bj?G=lbf64Od3
+R1
+R2
+R13
+R14
+R15
+L0 1
+R6
+r1
+!s85 0
+31
+R16
+R17
+R18
+!i113 1
+R10
+R11
+n@shifter

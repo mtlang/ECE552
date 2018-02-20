@@ -1,0 +1,23 @@
+I:/ECE552/ALU.v {1 {vlog -work HW4 -vopt -stats=none I:/ECE552/ALU.v
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} I:/ECE552/addsub.v {1 {vlog -work HW4 -vopt -stats=none I:/ECE552/addsub.v
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module addsub_4bit
+-- Compiling module full_adder_1bit
+
+Top level modules:
+	addsub_4bit
+
+} {} {}} I:/ECE552/PSA_16bit.v {1 {vlog -work HW4 -vopt -stats=none I:/ECE552/PSA_16bit.v
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module PSA_16bit
+
+Top level modules:
+	PSA_16bit
+
+} {} {}}
