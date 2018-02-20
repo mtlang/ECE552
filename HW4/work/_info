@@ -9,23 +9,23 @@ z2
 cModel Technology
 dE:/Users/mtlang/Desktop/ECE552
 vaddsub_4bit
-Z0 !s110 1519092068
+Z0 !s110 1519153936
 !i10b 1
 !s100 aNP8H4;EOfU^=MDk@C1Z;0
-IlgJb0RF_cTNJZ<GnmHdWX2
+IKXUAGn@;U[1=5<CZJTg==1
 Z1 VDg1SIo80bB@j0V0VzS_@n1
-Z2 dE:/Users/mtlang/Desktop/ECE552/HW4
-Z3 w1519091707
-Z4 8E:/Users/mtlang/Desktop/ECE552/addsub.v
-Z5 FE:/Users/mtlang/Desktop/ECE552/addsub.v
+Z2 dC:/Users/mtlan_000/GitHub/ECE552/HW4
+Z3 w1519153298
+Z4 8C:/Users/mtlan_000/GitHub/ECE552/addsub.v
+Z5 FC:/Users/mtlan_000/GitHub/ECE552/addsub.v
 L0 1
 Z6 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z7 !s108 1519092068.000000
-Z8 !s107 E:/Users/mtlang/Desktop/ECE552/addsub.v|
-Z9 !s90 -reportprogress|300|-work|work|-stats=none|E:/Users/mtlang/Desktop/ECE552/addsub.v|
+Z7 !s108 1519153936.000000
+Z8 !s107 C:/Users/mtlan_000/GitHub/ECE552/addsub.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mtlan_000/GitHub/ECE552/addsub.v|
 !i113 1
 Z10 o-work work
 Z11 tCvgOpt 0
@@ -33,20 +33,20 @@ vALU
 R0
 !i10b 1
 !s100 6B[hHM0ne1]JfY9FnXL>Q3
-I=;E[a[RYaQzDcXaYSZCl@1
+IiRM[`R5>fk2Ynf?B9<DVW3
 R1
 R2
 R3
-8E:/Users/mtlang/Desktop/ECE552/ALU.v
-FE:/Users/mtlang/Desktop/ECE552/ALU.v
+8C:/Users/mtlan_000/GitHub/ECE552/ALU.v
+FC:/Users/mtlan_000/GitHub/ECE552/ALU.v
 L0 1
 R6
 r1
 !s85 0
 31
 R7
-!s107 E:/Users/mtlang/Desktop/ECE552/ALU.v|
-!s90 -reportprogress|300|-work|work|-stats=none|E:/Users/mtlang/Desktop/ECE552/ALU.v|
+!s107 C:/Users/mtlan_000/GitHub/ECE552/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mtlan_000/GitHub/ECE552/ALU.v|
 !i113 1
 R10
 R11
@@ -55,7 +55,7 @@ vfull_adder_1bit
 R0
 !i10b 1
 !s100 ezGWA[OzEzQkW2WE_JgTi0
-I<hTlI2;]?8k@h:gT9>UU32
+I:8aQ=]`S0JLC[aWcISdK^2
 R1
 R2
 R3
@@ -73,23 +73,23 @@ R9
 R10
 R11
 vLShifter
-Z12 !s110 1519096391
+Z12 !s110 1519156209
 !i10b 1
 !s100 12iiQe49g_83<z6YT<h`k2
-IK8fWPmE?i@TQI=@4[W0g;3
+IH6[c2KmYJ6AIiE?F>z7f]3
 R1
 R2
-Z13 w1519096390
-Z14 8E:/Users/mtlang/Desktop/ECE552/HW4/Shifter.v
-Z15 FE:/Users/mtlang/Desktop/ECE552/HW4/Shifter.v
+Z13 w1519156201
+Z14 8C:/Users/mtlan_000/GitHub/ECE552/HW4/Shifter.v
+Z15 FC:/Users/mtlan_000/GitHub/ECE552/HW4/Shifter.v
 L0 16
 R6
 r1
 !s85 0
 31
-Z16 !s108 1519096391.000000
-Z17 !s107 E:/Users/mtlang/Desktop/ECE552/HW4/Shifter.v|
-Z18 !s90 -reportprogress|300|-work|work|-stats=none|E:/Users/mtlang/Desktop/ECE552/HW4/Shifter.v|
+Z16 !s108 1519156209.000000
+Z17 !s107 C:/Users/mtlan_000/GitHub/ECE552/HW4/Shifter.v|
+Z18 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mtlan_000/GitHub/ECE552/HW4/Shifter.v|
 !i113 1
 R10
 R11
@@ -98,29 +98,54 @@ vPSA_16bit
 R0
 !i10b 1
 !s100 ?Lg@>W7QjZWH@oL>32II`1
-I]iPcLC0gMh=9WdG?4]gLd1
+IXQOA@=I=gn]ObW3hG4lhe1
 R1
 R2
 R3
-8E:/Users/mtlang/Desktop/ECE552/PSA_16bit.v
-FE:/Users/mtlang/Desktop/ECE552/PSA_16bit.v
+8C:/Users/mtlan_000/GitHub/ECE552/PSA_16bit.v
+FC:/Users/mtlan_000/GitHub/ECE552/PSA_16bit.v
 L0 1
 R6
 r1
 !s85 0
 31
-R7
-!s107 E:/Users/mtlang/Desktop/ECE552/PSA_16bit.v|
-!s90 -reportprogress|300|-work|work|-stats=none|E:/Users/mtlang/Desktop/ECE552/PSA_16bit.v|
+!s108 1519153935.000000
+!s107 C:/Users/mtlan_000/GitHub/ECE552/PSA_16bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mtlan_000/GitHub/ECE552/PSA_16bit.v|
 !i113 1
 R10
 R11
 n@p@s@a_16bit
-vRShifter
-!s110 1519096392
+vPSA_16bit_tb
+Z19 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+!s110 1519156932
 !i10b 1
-!s100 ERzeb;:o@Baz9?8NiDjGY2
-I>@WWbShZd=bACc84OYTl52
+!s100 4;QG:7PXZaMYfYkaSlVN20
+I:P=@f9<N25Sg[]zA9eL_H2
+R1
+!s105 PSA_16bit_tb_sv_unit
+S1
+R2
+w1519156918
+8C:/Users/mtlan_000/GitHub/ECE552/HW4/PSA_16bit_tb.sv
+FC:/Users/mtlan_000/GitHub/ECE552/HW4/PSA_16bit_tb.sv
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1519156931.000000
+!s107 C:/Users/mtlan_000/GitHub/ECE552/HW4/PSA_16bit_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mtlan_000/GitHub/ECE552/HW4/PSA_16bit_tb.sv|
+!i113 1
+Z20 o-work work -sv
+R11
+n@p@s@a_16bit_tb
+vRShifter
+R12
+!i10b 1
+!s100 PozkUlT^BeK[<NQf_Kn921
+I`XKhMYlm5jd?[;HLZU]gF3
 R1
 R2
 R13
@@ -142,7 +167,7 @@ vShifter
 R12
 !i10b 1
 !s100 06[>Md7m_V8A^404[:1RQ1
-Ie9PCV;X_0Bj?G=lbf64Od3
+IkMhn42JzGR2AjfW7[Mckk2
 R1
 R2
 R13
@@ -160,3 +185,28 @@ R18
 R10
 R11
 n@shifter
+vShifter_tb
+R19
+!s110 1519156210
+!i10b 1
+!s100 3d?DUfM;XP4F>Z2ffalGj1
+IdKH`0=ODKdWS5lj^ZEe2h1
+R1
+!s105 Shifter_tb_sv_unit
+S1
+R2
+w1519156139
+8C:/Users/mtlan_000/GitHub/ECE552/HW4/Shifter_tb.sv
+FC:/Users/mtlan_000/GitHub/ECE552/HW4/Shifter_tb.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/mtlan_000/GitHub/ECE552/HW4/Shifter_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mtlan_000/GitHub/ECE552/HW4/Shifter_tb.sv|
+!i113 1
+R20
+R11
+n@shifter_tb

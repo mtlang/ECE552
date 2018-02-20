@@ -45,7 +45,7 @@ wire[15:0] R_shifted1;
 wire[15:0] R_shifted2;
 wire[15:0] R_shifted3;
 
-assign R_shifted1[14:0] = (Shift_Val[[0]) ? Shift_In[15:1] : Shift_In[14:0];
+assign R_shifted1[14:0] = (Shift_Val[0]) ? Shift_In[15:1] : Shift_In[14:0];
 assign R_shifted1[15] = Shift_In[15];
 
 assign R_shifted2[13:0] = (Shift_Val[1]) ? R_shifted1[15:2] : R_shifted1[13:0];

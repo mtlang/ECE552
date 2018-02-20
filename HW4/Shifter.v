@@ -54,7 +54,7 @@ assign R_shifted2[15:14] = (Shift_Val[1]) ? {2{R_shifted1[15]}} : R_shifted1[15:
 assign R_shifted3[11:0] = (Shift_Val[2]) ? R_shifted2[15:4] : R_shifted2[11:0];
 assign R_shifted3[15:12] = (Shift_Val[2]) ? {4{R_shifted2[15]}} : R_shifted2[15:12];
 
-assign Shift_Out[7:0] = (Shift_Val[3]) ? R_shifted1[15:8] : R_shifted1[7:0];
-assign Shift_Out[15:8] = (Shift_Val[3]) ? {8{R_shifted1[15]}} : R_shifted1[15:8];
+assign Shift_Out[7:0] = (Shift_Val[3]) ? R_shifted3[15:8] : R_shifted3[7:0];
+assign Shift_Out[15:8] = (Shift_Val[3]) ? {8{R_shifted3[15]}} : R_shifted3[15:8];
 
 endmodule
