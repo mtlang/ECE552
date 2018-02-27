@@ -9,111 +9,133 @@ z2
 cModel Technology
 dE:/intelFPGA/17.1
 vBitCell
-Z0 !s110 1519701390
+Z0 !s110 1519756753
 !i10b 1
 !s100 F^]l:Z6hVHaL;I_f7m7EK2
-I[:FeZA@BAa^7TV^@Xz==B2
+I]LMc@cNN2J<d8F@7JCofO2
 Z1 VDg1SIo80bB@j0V0VzS_@n1
-Z2 dE:/Users/mtlang/Github/ECE552/HW5
-w1519699832
-8E:/Users/mtlang/Github/ECE552/HW5/BitCell.v
-FE:/Users/mtlang/Github/ECE552/HW5/BitCell.v
+Z2 dC:/Users/mtlan_000/GitHub/ECE552/HW5
+Z3 w1519755620
+8C:/Users/mtlan_000/GitHub/ECE552/HW5/BitCell.v
+FC:/Users/mtlan_000/GitHub/ECE552/HW5/BitCell.v
 L0 1
-Z3 OV;L;10.5b;63
+Z4 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z4 !s108 1519701390.000000
-!s107 E:/Users/mtlang/Github/ECE552/HW5/BitCell.v|
-!s90 -reportprogress|300|-work|HW5|-stats=none|E:/Users/mtlang/Github/ECE552/HW5/BitCell.v|
+Z5 !s108 1519756753.000000
+!s107 C:/Users/mtlan_000/GitHub/ECE552/HW5/BitCell.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mtlan_000/GitHub/ECE552/HW5/BitCell.v|
 !i113 1
-Z5 o-work HW5
-Z6 tCvgOpt 0
+Z6 o-work work
+Z7 tCvgOpt 0
 n@bit@cell
 vdff
 R0
 !i10b 1
 !s100 PV_CoVVQ]?nI;J@mj=Gn=3
-IUBaBALCCa5j=MdH[AgENL0
+IdEc=_7D7:1J^O79cemR5^2
 R1
 R2
-w1519698434
-8E:/Users/mtlang/Github/ECE552/HW5/D-Flip-Flop.v
-FE:/Users/mtlang/Github/ECE552/HW5/D-Flip-Flop.v
-L0 3
 R3
+8C:/Users/mtlan_000/GitHub/ECE552/HW5/D-Flip-Flop.v
+FC:/Users/mtlan_000/GitHub/ECE552/HW5/D-Flip-Flop.v
+L0 3
+R4
 r1
 !s85 0
 31
-R4
-!s107 E:/Users/mtlang/Github/ECE552/HW5/D-Flip-Flop.v|
-!s90 -reportprogress|300|-work|HW5|-stats=none|E:/Users/mtlang/Github/ECE552/HW5/D-Flip-Flop.v|
-!i113 1
 R5
+!s107 C:/Users/mtlan_000/GitHub/ECE552/HW5/D-Flip-Flop.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mtlan_000/GitHub/ECE552/HW5/D-Flip-Flop.v|
+!i113 1
 R6
+R7
 vReadDecoder_4_16
 R0
 !i10b 1
 !s100 OEzcIkV4=9;zRi42R=2:g2
-Ie^M4jF^__GEQ5P^8C8ecS1
+ITCMH08gVg1G8E[]dkc5Xe0
 R1
 R2
-w1519698144
-8E:/Users/mtlang/Github/ECE552/HW5/ReadDecoder_4_16.v
-FE:/Users/mtlang/Github/ECE552/HW5/ReadDecoder_4_16.v
-L0 1
 R3
+8C:/Users/mtlan_000/GitHub/ECE552/HW5/ReadDecoder_4_16.v
+FC:/Users/mtlan_000/GitHub/ECE552/HW5/ReadDecoder_4_16.v
+L0 1
+R4
 r1
 !s85 0
 31
-R4
-!s107 E:/Users/mtlang/Github/ECE552/HW5/ReadDecoder_4_16.v|
-!s90 -reportprogress|300|-work|HW5|-stats=none|E:/Users/mtlang/Github/ECE552/HW5/ReadDecoder_4_16.v|
-!i113 1
 R5
+!s107 C:/Users/mtlan_000/GitHub/ECE552/HW5/ReadDecoder_4_16.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mtlan_000/GitHub/ECE552/HW5/ReadDecoder_4_16.v|
+!i113 1
 R6
+R7
 n@read@decoder_4_16
 vRegister
-!s110 1519701427
+R0
 !i10b 1
 !s100 iJNjhjY9KXPVj6jZn[TAb3
-IfEc0[0VmMe^K`0bkadYNQ3
+IIeEcaBUlEacOM;C^mi5PW2
 R1
 R2
-w1519701425
-8E:/Users/mtlang/Github/ECE552/HW5/Register.v
-FE:/Users/mtlang/Github/ECE552/HW5/Register.v
-L0 1
 R3
+8C:/Users/mtlan_000/GitHub/ECE552/HW5/Register.v
+FC:/Users/mtlan_000/GitHub/ECE552/HW5/Register.v
+L0 1
+R4
 r1
 !s85 0
 31
-!s108 1519701427.000000
-!s107 E:/Users/mtlang/Github/ECE552/HW5/Register.v|
-!s90 -reportprogress|300|-work|HW5|-stats=none|E:/Users/mtlang/Github/ECE552/HW5/Register.v|
-!i113 1
 R5
+!s107 C:/Users/mtlan_000/GitHub/ECE552/HW5/Register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mtlan_000/GitHub/ECE552/HW5/Register.v|
+!i113 1
 R6
+R7
 n@register
+vRegisterFile
+!s110 1519758224
+!i10b 1
+!s100 iLYc9zIPlI8ILE0k4<TEb2
+If9cTf?Z4_]aadzISzCSkE1
+R1
+R2
+w1519758222
+8C:/Users/mtlan_000/GitHub/ECE552/HW5/RegisterFile.v
+FC:/Users/mtlan_000/GitHub/ECE552/HW5/RegisterFile.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1519758224.000000
+!s107 C:/Users/mtlan_000/GitHub/ECE552/HW5/RegisterFile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mtlan_000/GitHub/ECE552/HW5/RegisterFile.v|
+!i113 1
+R6
+R7
+n@register@file
 vWriteDecoder_4_16
 R0
 !i10b 1
 !s100 7UEo_C]H2Y@lFi0g?jkQ?3
-IWKf?[W2TJ5SR264XQ3jVo1
+InC__U:chdUQM6HZ8`l;Bn3
 R1
 R2
-w1519698412
-8E:/Users/mtlang/Github/ECE552/HW5/WriteDecoder_4_16.v
-FE:/Users/mtlang/Github/ECE552/HW5/WriteDecoder_4_16.v
-L0 1
 R3
+8C:/Users/mtlan_000/GitHub/ECE552/HW5/WriteDecoder_4_16.v
+FC:/Users/mtlan_000/GitHub/ECE552/HW5/WriteDecoder_4_16.v
+L0 1
+R4
 r1
 !s85 0
 31
-R4
-!s107 E:/Users/mtlang/Github/ECE552/HW5/WriteDecoder_4_16.v|
-!s90 -reportprogress|300|-work|HW5|-stats=none|E:/Users/mtlang/Github/ECE552/HW5/WriteDecoder_4_16.v|
-!i113 1
 R5
+!s107 C:/Users/mtlan_000/GitHub/ECE552/HW5/WriteDecoder_4_16.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mtlan_000/GitHub/ECE552/HW5/WriteDecoder_4_16.v|
+!i113 1
 R6
+R7
 n@write@decoder_4_16

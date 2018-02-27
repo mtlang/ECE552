@@ -1,16 +1,10 @@
-C:/Users/mtlan_000/GitHub/ECE552/HW4/PSA_16bit_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/mtlan_000/GitHub/ECE552/HW4/PSA_16bit_tb.sv
+C:/Users/mtlan_000/GitHub/ECE552/addsub.v {1 {vlog -work work -stats=none C:/Users/mtlan_000/GitHub/ECE552/addsub.v
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module PSA_16bit_tb
+-- Compiling module addsub_4bit
+-- Compiling module full_adder_1bit
 
 Top level modules:
-	PSA_16bit_tb
-
-} {} {}} C:/Users/mtlan_000/GitHub/ECE552/HW4/Shifter_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/mtlan_000/GitHub/ECE552/HW4/Shifter_tb.sv
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module Shifter_tb
-
-Top level modules:
-	Shifter_tb
+	addsub_4bit
 
 } {} {}} C:/Users/mtlan_000/GitHub/ECE552/HW4/Shifter.v {1 {vlog -work work -stats=none C:/Users/mtlan_000/GitHub/ECE552/HW4/Shifter.v
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
@@ -21,20 +15,19 @@ Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  
 Top level modules:
 	Shifter
 
-} {} {}} C:/Users/mtlan_000/GitHub/ECE552/addsub.v {1 {vlog -work work -stats=none C:/Users/mtlan_000/GitHub/ECE552/addsub.v
+} {} {}} C:/Users/mtlan_000/GitHub/ECE552/HW4/Shifter_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/mtlan_000/GitHub/ECE552/HW4/Shifter_tb.sv
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module addsub_4bit
--- Compiling module full_adder_1bit
+-- Compiling module Shifter_tb
 
 Top level modules:
-	addsub_4bit
+	Shifter_tb
 
-} {} {}} C:/Users/mtlan_000/GitHub/ECE552/PSA_16bit.v {1 {vlog -work work -stats=none C:/Users/mtlan_000/GitHub/ECE552/PSA_16bit.v
+} {} {}} C:/Users/mtlan_000/GitHub/ECE552/HW4/PSA_16bit_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/mtlan_000/GitHub/ECE552/HW4/PSA_16bit_tb.sv
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module PSA_16bit
+-- Compiling module PSA_16bit_tb
 
 Top level modules:
-	PSA_16bit
+	PSA_16bit_tb
 
 } {} {}} {C:\Users\mtlan_000\GitHub\ECE552\HW4\Shifter_tb.sv} {1 {vlog -work work -sv -stats=none {C:\Users\mtlan_000\GitHub\ECE552\HW4\Shifter_tb.sv}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
@@ -42,6 +35,13 @@ Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  
 
 Top level modules:
 	Shifter_tb
+
+} {} {}} C:/Users/mtlan_000/GitHub/ECE552/PSA_16bit.v {1 {vlog -work work -stats=none C:/Users/mtlan_000/GitHub/ECE552/PSA_16bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module PSA_16bit
+
+Top level modules:
+	PSA_16bit
 
 } {} {}} C:/Users/mtlan_000/GitHub/ECE552/ALU.v {1 {vlog -work work -stats=none C:/Users/mtlan_000/GitHub/ECE552/ALU.v
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016

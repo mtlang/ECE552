@@ -1,0 +1,17 @@
+module RegisterFile(SrcData1, SrcData2, clk, rst, WriteReg, SrcReg1, SrcReg2, DstReg, DstData);
+input clk, rst, WriteReg;
+input [3:0] SrcReg1, SrcReg2, DstReg;
+input [15:0] DstData;
+inout [15:0] SrcData1, SrcData2;
+wire [15:0] R_Wordline1, R_Wordline2, W_Wordline;
+
+ReadDecoder_4_16 ReadDecoder1(.RegId(SrcReg1), .Wordline(R_Wordline1));
+ReadDecoder_4_16 ReadDecoder2(.RegId(SrcReg2), .Wordline(R_Wordline2));
+
+WriteDecoder_4_16(.RegId(DstReg), .WriteReg(WriteReg), .Wordline(W_Wordline));
+
+Register Reg0(.Bitline1(SrcData1), .Bitline2(SrcData2), .clk(clk), .rst(rst), 
+	.WriteReg(W_Wordline[0]), .ReadEnable1(R_Wordline1[0]), 
+	.ReadEnable2(R_Wordline2[0]), .D(DstData));
+
+endmodule
