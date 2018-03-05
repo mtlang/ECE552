@@ -1,0 +1,39 @@
+module PC_control (PC_out, C, I, F, PC_in);
+
+input [2:0] C; 
+input [8:0] I;
+input [2:0] F; // F[2] = N, F[1] = V, F[0] = Z
+input [15:0] PC_in;
+output [15:0] PC_out;
+
+reg branch;
+wire NEQ, EQ, GT, LT, GTE, LTE, OVFL, UNCOND;
+wire [15:0] target, incremented;
+wire Error1, Error2;
+
+PSA_16bit inc_adder(.Sum(incremented), .Error(Error1), .A(PC_in), .B(16'h2));
+PSA_16bit tgt_adder(.Sum(target), .Error(Error2), .A(incremented), .B({6'h0, I[8:0], 1'h0}));
+
+assign NEQ = ~F[0];
+assign EQ = F[0];
+assign GT = (~F[0] & ~F[2]);
+assign LT = F[2];
+assign GTE = F[0] | (~F[0] & ~F[2]);
+assign LTE = F[0] | F[2];
+assign OVFL = F[1];
+assign UNCOND = 1;
+
+always @* case (C)
+3'b000 : assign branch = NEQ;
+3'b001 : branch = EQ;
+3'b010 : branch = GT;
+3'b011 : branch = LT;
+3'b100 : branch = GTE;
+3'b101 : branch = LTE;
+3'b110 : branch = OVFL;
+3'b111 : branch = UNCOND;
+endcase
+
+assign PC_out = (branch) ? target : incremented;
+
+endmodule
