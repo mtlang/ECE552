@@ -1,4 +1,4 @@
-module RegisterFile_tb;
+module FSB_tb;
 reg clk, rst, WriteReg;
 reg [3:0] SrcReg1, SrcReg2, DstReg;
 reg [15:0] DstData;

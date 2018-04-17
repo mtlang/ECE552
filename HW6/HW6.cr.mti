@@ -1,0 +1,30 @@
+I:/GitHub/ECE552/HW6/PSA_16bit.v {1 {vlog -work HW6 -vopt -stats=none I:/GitHub/ECE552/HW6/PSA_16bit.v
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module PSA_16bit
+
+Top level modules:
+	PSA_16bit
+
+} {} {}} I:/GitHub/ECE552/HW6/PC_control_tb.sv {1 {vlog -work work -vopt -sv -stats=none I:/GitHub/ECE552/HW6/PC_control_tb.sv
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module PC_control_tb
+
+Top level modules:
+	PC_control_tb
+
+} {} {}} I:/GitHub/ECE552/HW6/addsub.v {1 {vlog -work work -vopt -stats=none I:/GitHub/ECE552/HW6/addsub.v
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module addsub_4bit
+-- Compiling module full_adder_1bit
+
+Top level modules:
+	addsub_4bit
+
+} {} {}} I:/GitHub/ECE552/HW6/PC_control.v {1 {vlog -work HW6 -vopt -stats=none I:/GitHub/ECE552/HW6/PC_control.v
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module PC_control
+
+Top level modules:
+	PC_control
+
+} {} {}}

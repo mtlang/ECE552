@@ -8,7 +8,7 @@ wire [15:0] R_Wordline1, R_Wordline2, W_Wordline;
 ReadDecoder_4_16 ReadDecoder1(.RegId(SrcReg1), .Wordline(R_Wordline1));
 ReadDecoder_4_16 ReadDecoder2(.RegId(SrcReg2), .Wordline(R_Wordline2));
 
-WriteDecoder_4_16(.RegId(DstReg), .WriteReg(WriteReg), .Wordline(W_Wordline));
+WriteDecoder_4_16 WriteDecoder(.RegId(DstReg), .WriteReg(WriteReg), .Wordline(W_Wordline));
 
 Register Reg0(.Bitline1(SrcData1), .Bitline2(SrcData2), .clk(clk), .rst(rst), 
 	.WriteReg(W_Wordline[0]), .ReadEnable1(R_Wordline1[0]), 

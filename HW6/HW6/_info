@@ -1,0 +1,111 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/ProgramData/App-V/2191B702-5279-4048-91BA-BCF8F2A20B49/3C5B5D32-C303-48A2-8738-F357EDE80167/Root/examples
+vaddsub_4bit
+Z0 V`JN@9S9cnhjKRR_L]QIcM3
+r1
+!s85 0
+31
+!i10b 1
+!s100 aNP8H4;EOfU^=MDk@C1Z;0
+I`;i[j2`<;EANU:<@bEQWX0
+Z1 dI:/GitHub/ECE552/HW6
+Z2 w1519158565
+Z3 8I:/GitHub/ECE552/HW6/addsub.v
+Z4 FI:/GitHub/ECE552/HW6/addsub.v
+L0 1
+Z5 OE;L;10.3c;59
+Z6 !s108 1520283648.555000
+Z7 !s107 I:/GitHub/ECE552/HW6/addsub.v|
+Z8 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/GitHub/ECE552/HW6/addsub.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vfull_adder_1bit
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 ezGWA[OzEzQkW2WE_JgTi0
+I72iJVLdR[@T33k37aei9>2
+R1
+R2
+R3
+R4
+L0 20
+R5
+R6
+R7
+R8
+!i113 0
+R9
+vPC_control
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 QMfHDFkcX@<Ag9CdPzlSY2
+IMi8mL[COZnRRn1_682]Ob0
+R1
+w1520282771
+8I:/GitHub/ECE552/HW6/PC_control.v
+FI:/GitHub/ECE552/HW6/PC_control.v
+L0 1
+R5
+!s108 1520283646.303000
+!s107 I:/GitHub/ECE552/HW6/PC_control.v|
+!s90 -reportprogress|300|-work|HW6|-vopt|-stats=none|I:/GitHub/ECE552/HW6/PC_control.v|
+!i113 0
+Z10 o-work HW6 -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@p@c_control
+vPC_control_tb
+DXx6 sv_std 3 std 0 22 <EOTafDcUY:cQeO^ICn]m3
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 <502]f^VQ:5Wggo3LcJ6R0
+IdBZ4WM@KjdBfEae;Zdbb[2
+!s105 PC_control_tb_sv_unit
+S1
+R1
+w1520284599
+8I:/GitHub/ECE552/HW6/PC_control_tb.sv
+FI:/GitHub/ECE552/HW6/PC_control_tb.sv
+L0 1
+R5
+!s108 1520284602.849000
+!s107 I:/GitHub/ECE552/HW6/PC_control_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|I:/GitHub/ECE552/HW6/PC_control_tb.sv|
+!i113 0
+o-work work -sv -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@p@c_control_tb
+vPSA_16bit
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 ?Lg@>W7QjZWH@oL>32II`1
+IiTR?lJ^R8k?L7WcfXQ4hC2
+R1
+R2
+8I:/GitHub/ECE552/HW6/PSA_16bit.v
+FI:/GitHub/ECE552/HW6/PSA_16bit.v
+L0 1
+R5
+!s108 1520283646.996000
+!s107 I:/GitHub/ECE552/HW6/PSA_16bit.v|
+!s90 -reportprogress|300|-work|HW6|-vopt|-stats=none|I:/GitHub/ECE552/HW6/PSA_16bit.v|
+!i113 0
+R10
+n@p@s@a_16bit
